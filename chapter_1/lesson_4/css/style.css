@@ -1,0 +1,29 @@
+.parent {
+  background-color: red;
+  height: 600px;
+  display: flex;
+  /* justify-content: space-around; */
+  /* justify-content: end; */
+  /* align-items: center; */
+  /* flex-direction: column; */
+  /* justify-content: center; */
+  /* align-items: center;
+  justify-content: center; */
+  /* flex-direction: row-reverse;
+  justify-content: end;
+  align-items: end;
+*/
+}
+.child {
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+  font-size: 30px;
+  color: black;
+}
+/* .second {
+  order: -1;
+}
+
+.first {
+  order: 1 */

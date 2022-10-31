@@ -1,0 +1,77 @@
+body {
+  position: absolute;
+  width: 760px;
+  height: 144px;
+  left: 289px;
+  top: 100px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 72px;
+  text-align: center;
+  color: #35414b;
+}
+.h2 {
+  position: absolute;
+  width: 505px;
+  height: 48px;
+  left: 130px;
+  top: 200px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #4e5a65;
+}
+#email {
+  box-sizing: border-box;
+  position: absolute;
+  font-size: 15px;
+  width: 380px;
+  height: 52px;
+  left: 205px;
+  top: 276px;
+  background: #ffffff;
+  border: 1px solid #e1e5ea;
+  border-radius: 10px;
+}
+.newslatter form input:first-child {
+  display: inline-block;
+  width: 100%;
+  padding: 14px 130px 14px 15px;
+  border: 2px solid #794cff;
+  outline: none;
+  border-radius: 30px;
+}
+.newslatter form input:last-child {
+  display: inline-block;
+  width: 160px;
+  height: 52px;
+  border: 1px solid #794cff;
+  border-radius: 10px;
+  box-sizing: border-box;
+  font-size: 15px;
+  background: #794cff;
+  color: white;
+  position: absolute;
+  left: 430px;
+  top: 276px;
+}
+
+
+/* box-sizing: border-box;
+
+position: absolute;
+width: 164px;
+height: 52px;
+left: 795px;
+top: 492px;
+
+background: #794CFF;
+border: 1px solid #794CFF;
+border-radius: 0px 4px 4px 0px; */

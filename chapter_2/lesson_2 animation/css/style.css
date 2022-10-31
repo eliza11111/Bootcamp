@@ -1,0 +1,23 @@
+.block-animation {
+  width: 150px;
+  height: 150px;
+  background-color: aquamarine;
+  transition-property: background-color;
+  transition-duration: 2s;
+}
+.block-animation:hover {
+  background-color: lightcoral;
+}
+.block-animation2 {
+  width: 150px;
+  height: 150px;
+  background-color: mediumorchid;
+  margin: 20px;
+  transition: width 2s;
+  transition-timing-function: cubic-bezier(0.21, 0.8, 0.73, 0.19) height 2s
+    cubic-bezier(0.21, 0.8, 0.73, 0.19);
+}
+.block-animation2:hover {
+  width: 300px;
+  height: 300px;
+}

@@ -1,0 +1,39 @@
+/* 3 */
+/* * {
+  font-size: 30px;
+}
+p {
+  color: red;
+}
+.text-green {
+  color: green;
+}
+#block-2 {
+  background-color: darkred;
+}
+.bg-blue {
+  color: orange;
+}
+.bg-dark {
+  background-color: darkolivegreen;
+}
+
+div {
+  background-color: darkblue;
+  color: yellow;
+  width: 300px;
+  height: 300px;
+} */
+.block {
+  background: black;
+  color: red;
+  width: 200px;
+  height: 200px;
+  border: 5px red solid;
+  /* margin-left: 60px; */
+  /* margin: 150px; */
+  /* margin-top: 20px;
+  margin-bottom: 40px;
+  margin: 20px 0 40px 60px; */
+  /* margin: 20px 40px ; */
+}
